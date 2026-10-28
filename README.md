@@ -24,6 +24,6 @@ No libraries. No frameworks.
 
 ## Watch the tutorial
 
-[Paste your YouTube video link here]
+[https://youtu.be/HuW4BjVLYag]
 
 Made by CodeTime
